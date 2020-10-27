@@ -1,0 +1,4 @@
+build wemakegraph-angular-universal:
+  script:
+    - echo $PWD
+    
